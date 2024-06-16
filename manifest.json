@@ -1,0 +1,11 @@
+
+    {
+        "manifest_version": 3,
+        "name": "K-Compressor",
+        "version": "1.0",
+        "description": "Best image compressor",
+        "action": {
+            "default_icon": "photo.png",
+            "default_popup": "popup.html"
+        }
+    }
